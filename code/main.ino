@@ -11,8 +11,8 @@ DNSServer dns;
 const byte DNS_PORT = 53;
 
 // AP credentials
-const char* ssid = "ESP-Control";
-const char* password = "12345678";
+const char* ssid = "ESP-Control"; // SSID
+const char* password = "12345678"; // Passowrd
 
 bool state1 = false;
 bool state2 = false;
