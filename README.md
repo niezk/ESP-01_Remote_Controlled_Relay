@@ -56,11 +56,11 @@ To run program, follow these instructions
 4. Try to control the relay
 ## Schematic
 
-![Schematic](https://i.pinimg.com/originals/02/dc/2f/02dc2ff30a91cfba8379da958848db64.gif)
+![Schematic](https://raw.githubusercontent.com/niezk/ESP-01_Remote_Controlled_Relay/refs/heads/main/Schematic_Karya-bakti_2026-04-26.png)
 
 ## Documentation
 
-![demo](https://i.pinimg.com/originals/02/dc/2f/02dc2ff30a91cfba8379da958848db64.gif)
+![PCB Example](https://raw.githubusercontent.com/niezk/ESP-01_Remote_Controlled_Relay/refs/heads/main/PCB_PCB_Karya-bakti_2026-04-18.png)
 
 
 ## Authors
